@@ -1,2 +1,2 @@
 # Parking-Vehicle-Count-App
-This is a react based project
+This is a React based project
